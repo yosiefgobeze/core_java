@@ -5,6 +5,7 @@ package LOCAL_VARIABLE_TYPE_INFERENCE;
  * in such a case java has introduced record class which makes codes minimized
  * the instance variables are final so they can't be changed
  * by default the toString(), hashcode() and equals() methods are implemented and no need to do again
+ * the record can't extend any class because it has already extended the Record class but it can implement interfaces
  */
 public class RecordClassDemo {
     public static void main(String[] args) {
