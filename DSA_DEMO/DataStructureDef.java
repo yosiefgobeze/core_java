@@ -1,0 +1,1 @@
+// A datastructure is a way of storing data
